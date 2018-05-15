@@ -10,4 +10,6 @@ Necessary commands: "go get github.com/VladimirMarkelov/clui"
 
 Go to the getting started wikipage to get a full description on how to run the program.
 
+The working demo is the file named "cluitestproj.go"
+
 Head to the Wiki page for a more in dept description of the project.
