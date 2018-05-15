@@ -6,7 +6,8 @@ Since this is a work in progress please see the status page in the wiki.
 
 **To get the program running you need to write the commands listed under as necessary commands**
 
-Necessary commands: "go get github.com/VladimirMarkelov/clui"
+Necessary commands: "go get github.com/VladimirMarkelov/clui" <-- This is for the old demo we didnt continue working on
+                    "go get github.com/jroimartin/gocui" <-- This is for the current working demo
 
 Go to the getting started wikipage to get a full description on how to run the program.
 
